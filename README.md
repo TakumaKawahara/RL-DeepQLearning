@@ -2,7 +2,7 @@
 Udacity Deep Learning Nanodegree Program(DLND)  
   
 Lesson "Deep Q Learning".  
-n this lesson, I learned algorithms below.  
+In this lesson, I learned algorithms below.  
 Algorithm 1: Deep Q Network  
 Algorithm 2: Experience Replay  
 Algorithm 3: Fixed Q Targets  
