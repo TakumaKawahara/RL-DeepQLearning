@@ -11,5 +11,4 @@ OpenAI Gym: Cart-Pole Environment
 ![alt text](https://github.com/TakumaKawahara/RL-DeepQLearning/blob/master/assets/cart-pole.jpg)    
   
 Output: 
-
-![alt text](https://github.com/TakumaKawahara/RL-DeepQLearning/blob/master/result_video.mp4)
+![Watch the video](https://github.com/TakumaKawahara/RL-DeepQLearning/blob/master/result_video.mp4)
